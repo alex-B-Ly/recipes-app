@@ -1,0 +1,11 @@
+[
+	{
+		"ID" : 1,
+		"name" : "Gin Tonic",
+		"prepTime" : 2,
+		"servings" : 1,
+		"ingredients" : ["Gin, 1 parts", "Tonic Water, 4 parts", "Lime wedge"],
+		"directions" : ["Pour gin into tall glass", "Pour tonic water in same glass", "Mix, garnish with lime wedge, enjoy"],
+		"imgPath" : "img/drinks/gintonic/"
+	}
+]
